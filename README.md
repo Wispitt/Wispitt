@@ -15,6 +15,6 @@ Eu me chamo Wesley Santos e estou entrando ainda nesse ramo de programador.
 
 <br>
 
-<p> LinEdin: https://www.linkedin.com/in/wesley-gois-dev</p>
+<p> Linkedin: https://www.linkedin.com/in/wesley-gois-dev</p>
 <p>Telefone: (71) 99712-9857</p>
 <p>Email: wesleysantosgois11@gmail.com</p>
